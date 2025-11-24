@@ -182,9 +182,15 @@ Prints result
 
 (Add your own screenshots here or write this)
 
-Screenshot 1: Menu displayed  
-Screenshot 2: Operation performed  
+Screenshot 1: Menu displayed
+![WhatsApp Image 2025-11-24 at 10 56 45 PM (1)](https://github.com/user-attachments/assets/9cf7b6d8-a25b-4817-aa0e-705620574cc5)
+
+Screenshot 2: Operation performed 
+![WhatsApp Image 2025-11-24 at 11 17 55 PM](https://github.com/user-attachments/assets/c8766931-f0fc-443b-8d90-72bb410da971)
+
 Screenshot 3: Error handling message
+![WhatsApp Image 2025-11-24 at 11 22 39 PM](https://github.com/user-attachments/assets/22cb0082-c96c-48a7-98a3-f6419af750ab)
+
 
 
 ---
