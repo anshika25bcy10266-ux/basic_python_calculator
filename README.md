@@ -43,5 +43,5 @@ Anshika Srivastava
 
 
 
-Once you click it, your first file will be uploaded.
+
 
