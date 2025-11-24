@@ -35,6 +35,10 @@ pytest
 
 ## 📝 Author
 Anshika Srivastava
+*Name:* Anshika Srivastava  
+*Registration Number:* 25BCY10266  
+*Project Title:* Basic Python Calculator
+
 
 
 
