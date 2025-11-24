@@ -67,6 +67,10 @@ Start ↓ Show Menu ↓ User selects option ↓ If Square Root → ask 1 number 
 - Add a GUI (Tkinter)
 - Add more scientific functions
 - Add history/caching feature
+- *Name:* Anshika Srivastava  
+*Registration Number:* 25BCY10266  
+*Project Title:* Basic Python Calculator
+
 
 ## 14. References
 - Python Official Documentation  
